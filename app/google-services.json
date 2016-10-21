@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "277237023019",
+    "firebase_url": "https://science-ac2c2.firebaseio.com",
+    "project_id": "science-ac2c2",
+    "storage_bucket": "science-ac2c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277237023019:android:0ab80b38175d3441",
+        "android_client_info": {
+          "package_name": "com.example.brijeshchandrakar.focusscience"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277237023019-pt5nffd2gb3dmnu7rhk8sducefaof3j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5SXtzlbzu-IIljXSDXBxNN6nWlQ4V0hw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
